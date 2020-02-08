@@ -1,0 +1,1 @@
+test log file to be ignoredby .gitignore, while trying to commit this file to GIT's staging repository.
